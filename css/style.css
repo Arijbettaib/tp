@@ -1,0 +1,9 @@
+body{
+    height: 100%;
+    background-attachment: fixed;
+    font: optional;
+    font-size: 30;
+}
+h1{
+    color: blue;
+}
